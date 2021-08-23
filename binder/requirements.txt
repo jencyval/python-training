@@ -23,7 +23,7 @@ ipyvolume>=0.5.1
 ipywebrtc>=0.4.3
 ipywidgets>=7.4.2
 jupyter-tensorboard>=0.1.8
-jupyterlab==0.35.6
+jupyterlab==1.2.21
 jupyterlab-autoversion>=0.0.4
 jupyterlab-celltests>=0.0.8
 jupyterlab-commands>=0.0.4
